@@ -1,0 +1,125 @@
+*{
+	margin: 0px; 
+	padding: 0px; 
+	font-family: 'Roboto', sans-serif;
+}
+
+body{
+	background: #cbd5a5;
+}
+
+#principal{
+	width: 80%;
+	height: 200px;
+	background: #262f3e;
+	border-radius: 15px;
+	margin-left: 10%;
+	margin-top: 20px;
+}
+
+.claro{
+	background: #cbd5a5 !important;
+}
+
+.claro2{
+	background: white !important;
+}
+
+.oscuro{
+	background: #262f3e;
+}
+
+.tclaro{
+	color:  black !important;
+
+}
+
+.toscuro{
+	color: #cbd5a5 !important;
+
+}
+
+#opera{
+	width: 80%;
+	height: 5%;
+	position: fixed;
+	margin-top: 120px;
+}
+
+#res{
+	width: 80%;
+	height: 7%;
+	position: fixed;
+	margin-top: 150px;
+}
+
+#numeral{
+	width: 80%;
+	height: 60%;
+	border-radius: 15px;
+	background: #313a49;
+	margin-top: 10%;
+	position: fixed;
+}
+
+#tema{
+	width: 15%;
+	height: 4%;
+	background-color: #313a49;
+	position: fixed;
+	margin-left: 32.5%;
+	margin-top: 3%;
+	border-radius: 10px;
+	cursor: pointer;
+}
+	.activo{
+		color: rgba(255,255,255, .8) !important;
+	}
+
+#icon1{
+	margin-top: 8%;
+	margin-left: 15%;
+	color: rgba(255,255,255, .1);
+}
+
+#icon2{
+	margin-top: 8%;
+	margin-left: 20%;
+	color: rgba(255,255,255, .1);
+}
+
+
+.num{
+	background-color: transparent;
+    border: none;
+    color: #cbd5a5;
+
+}
+
+#exc1{
+	margin-left: 60.8%;
+}
+
+#exc2{
+	margin-left: 30.4%;
+}
+
+#exc3{
+	color: white;
+}
+
+.ope{
+	width:50px;
+	height:50px;
+	background-color: #394251;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	color: #cbd5a5;
+}
+
+button{
+	width: 30%;
+	height: 20%;
+	border-radius: 15px;
+	cursor: pointer;
+}

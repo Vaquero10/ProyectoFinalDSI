@@ -1,0 +1,24 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+html{
+	background-color: black;
+}
+
+#pr{
+	width: 23%;
+	height: 250px;
+	background-color: red;
+	float: left;
+	margin: 5%;
+}
+
+a{
+	color: black;
+	font-size: 20px;
+	margin: 32%;
+
+
+}
